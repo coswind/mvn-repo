@@ -44,7 +44,7 @@ And you can use the artifacts like this:
         compile 'com.larswerkman:holo-color-picker:1.0-SNAPSHOT'
         compile 'com.fortysevendeg.swipelistview:swipelistview:1.0-SNAPSHOT'
         
-        compile 'com.coswind.viewpagerindicator:viewpagerindicator-tabview:1.0-SNAPSHOT'
+        compile 'com.coswind.viewpagerindicator:viewpagerindicator:1.0-SNAPSHOT'
     }
 
 Notes:
