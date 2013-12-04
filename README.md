@@ -5,7 +5,7 @@ Simply add the repository to your build.gradle file:
 
     repositories {
         maven {
-            url 'https://github.com/Goddchen/mvn-repo/raw/master/'
+            url 'https://github.com/coswind/mvn-repo/raw/master/'
         }
         mavenCentral()
     }
@@ -43,6 +43,8 @@ And you can use the artifacts like this:
         compile 'com.github.manuelpeinado.refreshactionitem-native:RefreshActionItem:1.0.3'
         compile 'com.larswerkman:holo-color-picker:1.0-SNAPSHOT'
         compile 'com.fortysevendeg.swipelistview:swipelistview:1.0-SNAPSHOT'
+        
+        compile 'com.coswind.viewpagerindicator:viewpagerindicator-tabview:1.0-SNAPSHOT'
     }
 
 Notes:
