@@ -46,6 +46,7 @@ And you can use the artifacts like this:
         
         compile 'com.coswind.viewpagerindicator:viewpagerindicator:1.0-SNAPSHOT'
         compile 'me.imid.swipebacklayout:swipebacklayout:1.1-SNAPSHOT'
+        compile 'com.github.chrisbanes.actionbarpulltorefresh:extra-abs:0.9.2'
     }
 
 Notes:
