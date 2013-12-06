@@ -44,7 +44,7 @@ And you can use the artifacts like this:
         compile 'com.larswerkman:holo-color-picker:1.0-SNAPSHOT'
         compile 'com.fortysevendeg.swipelistview:swipelistview:1.0-SNAPSHOT'
         
-        compile 'com.coswind.viewpagerindicator:viewpagerindicator:1.0-SNAPSHOT'
+        compile 'com.coswind.viewpagerindicator:viewpagerindicator:1.1-SNAPSHOT'
         compile 'me.imid.swipebacklayout:swipebacklayout:1.1-SNAPSHOT'
         compile 'com.github.chrisbanes.actionbarpulltorefresh:extra-abs:0.9.2'
         compile 'com.github.chrisbanes.actionbarpulltorefresh:library:0.9.2'
