@@ -2,13 +2,11 @@
 <metadata>
   <groupId>com.github.chrisbanes.actionbarpulltorefresh</groupId>
   <artifactId>library</artifactId>
-  <version>0.5</version>
+  <version>1.0-SNAPSHOT</version>
   <versioning>
     <versions>
-      <version>0.5</version>
-      <version>0.9.2</version>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20131206072339</lastUpdated>
+    <lastUpdated>20131206084125</lastUpdated>
   </versioning>
 </metadata>

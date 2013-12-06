@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.coswind.viewpagerindicator</groupId>
-  <artifactId>viewpagerindicator</artifactId>
+  <groupId>me.imid.swipebacklayout</groupId>
+  <artifactId>library</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20131206083858</lastUpdated>
+    <lastUpdated>20131206083022</lastUpdated>
   </versioning>
 </metadata>

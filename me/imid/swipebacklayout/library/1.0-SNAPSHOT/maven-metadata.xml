@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.github.chrisbanes.actionbarpulltorefresh</groupId>
+  <groupId>me.imid.swipebacklayout</groupId>
   <artifactId>library</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20131206.084125</timestamp>
+      <timestamp>20131206.083022</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20131206084125</lastUpdated>
+    <lastUpdated>20131206083022</lastUpdated>
   </versioning>
 </metadata>
